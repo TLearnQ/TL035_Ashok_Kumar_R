@@ -1,0 +1,386 @@
+[
+  {
+    "file": "TS29556_Neasdf_DNSContext.yaml",
+    "endpoint": "/dns-contexts",
+    "method": "POST",
+    "auth_methods": [
+      "oAuth2ClientCredentials"
+    ],
+    "response_codes": [
+      "201",
+      "307",
+      "308",
+      "400",
+      "401",
+      "403",
+      "404",
+      "411",
+      "413",
+      "415",
+      "429",
+      "500",
+      "502",
+      "503",
+      "default"
+    ]
+  },
+  {
+    "file": "TS29556_Neasdf_DNSContext.yaml",
+    "endpoint": "/dns-contexts/{dnsContextId}",
+    "method": "DELETE",
+    "auth_methods": [
+      "oAuth2ClientCredentials"
+    ],
+    "response_codes": [
+      "204",
+      "307",
+      "308",
+      "400",
+      "401",
+      "403",
+      "404",
+      "411",
+      "413",
+      "415",
+      "429",
+      "500",
+      "502",
+      "503",
+      "default"
+    ]
+  },
+  {
+    "file": "TS29556_Neasdf_DNSContext.yaml",
+    "endpoint": "/dns-contexts/{dnsContextId}",
+    "method": "PATCH",
+    "auth_methods": [
+      "oAuth2ClientCredentials"
+    ],
+    "response_codes": [
+      "200",
+      "204",
+      "307",
+      "308",
+      "400",
+      "401",
+      "403",
+      "404",
+      "411",
+      "413",
+      "415",
+      "429",
+      "500",
+      "501",
+      "502",
+      "503",
+      "default"
+    ]
+  },
+  {
+    "file": "TS29556_Neasdf_DNSContext.yaml",
+    "endpoint": "/dns-contexts/{dnsContextId}",
+    "method": "PUT",
+    "auth_methods": [
+      "oAuth2ClientCredentials"
+    ],
+    "response_codes": [
+      "204",
+      "307",
+      "308",
+      "400",
+      "401",
+      "403",
+      "404",
+      "411",
+      "413",
+      "415",
+      "429",
+      "500",
+      "501",
+      "502",
+      "503",
+      "default"
+    ]
+  },
+  {
+    "file": "TS29557_Naf_ProSe.yaml",
+    "endpoint": "/authorize-discovery",
+    "method": "POST",
+    "auth_methods": [
+      "oAuth2ClientCredentials"
+    ],
+    "response_codes": [
+      "200",
+      "307",
+      "308",
+      "400",
+      "401",
+      "403",
+      "404",
+      "411",
+      "413",
+      "415",
+      "429",
+      "500",
+      "502",
+      "503",
+      "default"
+    ]
+  },
+  {
+    "file": "TS29557_Naf_ProSe.yaml",
+    "endpoint": "/authorization-update-result",
+    "method": "POST",
+    "auth_methods": [
+      "oAuth2ClientCredentials"
+    ],
+    "response_codes": [
+      "204",
+      "307",
+      "308",
+      "400",
+      "401",
+      "403",
+      "404",
+      "411",
+      "413",
+      "415",
+      "429",
+      "500",
+      "502",
+      "503",
+      "504",
+      "default"
+    ]
+  },
+  {
+    "file": "TS29558_Eecs_ACREvents.yaml",
+    "endpoint": "/subscriptions",
+    "method": "POST",
+    "auth_methods": [
+      "oAuth2ClientCredentials"
+    ],
+    "response_codes": [
+      "201",
+      "400",
+      "401",
+      "403",
+      "404",
+      "411",
+      "413",
+      "415",
+      "429",
+      "500",
+      "503",
+      "default"
+    ]
+  },
+  {
+    "file": "TS29558_Eecs_ACREvents.yaml",
+    "endpoint": "/subscriptions/{subscriptionId}",
+    "method": "GET",
+    "auth_methods": [
+      "oAuth2ClientCredentials"
+    ],
+    "response_codes": [
+      "200",
+      "307",
+      "308",
+      "400",
+      "401",
+      "403",
+      "404",
+      "406",
+      "429",
+      "500",
+      "503",
+      "default"
+    ]
+  },
+  {
+    "file": "TS29558_Eecs_ACREvents.yaml",
+    "endpoint": "/subscriptions/{subscriptionId}",
+    "method": "PUT",
+    "auth_methods": [
+      "oAuth2ClientCredentials"
+    ],
+    "response_codes": [
+      "200",
+      "204",
+      "307",
+      "308",
+      "400",
+      "401",
+      "403",
+      "404",
+      "411",
+      "413",
+      "415",
+      "429",
+      "500",
+      "503",
+      "default"
+    ]
+  },
+  {
+    "file": "TS29558_Eecs_ACREvents.yaml",
+    "endpoint": "/subscriptions/{subscriptionId}",
+    "method": "PATCH",
+    "auth_methods": [
+      "oAuth2ClientCredentials"
+    ],
+    "response_codes": [
+      "200",
+      "204",
+      "307",
+      "308",
+      "400",
+      "401",
+      "403",
+      "404",
+      "411",
+      "413",
+      "415",
+      "429",
+      "500",
+      "503",
+      "default"
+    ]
+  },
+  {
+    "file": "TS29558_Eecs_ACREvents.yaml",
+    "endpoint": "/subscriptions/{subscriptionId}",
+    "method": "DELETE",
+    "auth_methods": [
+      "oAuth2ClientCredentials"
+    ],
+    "response_codes": [
+      "204",
+      "307",
+      "308",
+      "400",
+      "401",
+      "403",
+      "404",
+      "429",
+      "500",
+      "503",
+      "default"
+    ]
+  },
+  {
+    "file": "TS29558_Eecs_EESRegistration.yaml",
+    "endpoint": "/registrations",
+    "method": "POST",
+    "auth_methods": [
+      "oAuth2ClientCredentials"
+    ],
+    "response_codes": [
+      "201",
+      "400",
+      "401",
+      "403",
+      "404",
+      "411",
+      "413",
+      "415",
+      "429",
+      "500",
+      "503",
+      "default"
+    ]
+  },
+  {
+    "file": "TS29558_Eecs_EESRegistration.yaml",
+    "endpoint": "/registrations/{registrationId}",
+    "method": "GET",
+    "auth_methods": [
+      "oAuth2ClientCredentials"
+    ],
+    "response_codes": [
+      "200",
+      "307",
+      "308",
+      "400",
+      "401",
+      "403",
+      "404",
+      "406",
+      "429",
+      "500",
+      "503",
+      "default"
+    ]
+  },
+  {
+    "file": "TS29558_Eecs_EESRegistration.yaml",
+    "endpoint": "/registrations/{registrationId}",
+    "method": "PUT",
+    "auth_methods": [
+      "oAuth2ClientCredentials"
+    ],
+    "response_codes": [
+      "200",
+      "204",
+      "307",
+      "308",
+      "400",
+      "401",
+      "403",
+      "404",
+      "411",
+      "413",
+      "415",
+      "429",
+      "500",
+      "503",
+      "default"
+    ]
+  },
+  {
+    "file": "TS29558_Eecs_EESRegistration.yaml",
+    "endpoint": "/registrations/{registrationId}",
+    "method": "PATCH",
+    "auth_methods": [
+      "oAuth2ClientCredentials"
+    ],
+    "response_codes": [
+      "200",
+      "204",
+      "307",
+      "308",
+      "400",
+      "401",
+      "403",
+      "404",
+      "411",
+      "413",
+      "415",
+      "429",
+      "500",
+      "503",
+      "default"
+    ]
+  },
+  {
+    "file": "TS29558_Eecs_EESRegistration.yaml",
+    "endpoint": "/registrations/{registrationId}",
+    "method": "DELETE",
+    "auth_methods": [
+      "oAuth2ClientCredentials"
+    ],
+    "response_codes": [
+      "204",
+      "307",
+      "308",
+      "400",
+      "401",
+      "403",
+      "404",
+      "429",
+      "500",
+      "503",
+      "default"
+    ]
+  }
+]

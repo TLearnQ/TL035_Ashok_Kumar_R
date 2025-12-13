@@ -1,0 +1,18 @@
+{"asctime": "2025-12-13 13:03:21,053", "levelname": "INFO", "message": "Starting analysis", "file_count": 6}
+{"asctime": "2025-12-13 13:03:21,062", "levelname": "INFO", "message": "Parsed file successfully", "file": "TS26113_Maf_SessionHandling.yaml"}
+{"asctime": "2025-12-13 13:03:21,077", "levelname": "INFO", "message": "Parsed file successfully", "file": "TS28310_EnergyInformationNrm.yaml"}
+{"asctime": "2025-12-13 13:03:21,180", "levelname": "INFO", "message": "Parsed file successfully", "file": "TS29556_Neasdf_DNSContext.yaml"}
+{"asctime": "2025-12-13 13:03:21,244", "levelname": "INFO", "message": "Parsed file successfully", "file": "TS29557_Naf_ProSe.yaml"}
+{"asctime": "2025-12-13 13:03:21,297", "levelname": "INFO", "message": "Parsed file successfully", "file": "TS29558_Eecs_ACREvents.yaml"}
+{"asctime": "2025-12-13 13:03:21,361", "levelname": "INFO", "message": "Parsed file successfully", "file": "TS29558_Eecs_EESRegistration.yaml"}
+{"asctime": "2025-12-13 13:03:21,361", "levelname": "INFO", "message": "Metadata saved to metadata.json"}
+{"asctime": "2025-12-13 13:03:21,370", "levelname": "INFO", "message": "Summary report appended to README.txt"}
+{"asctime": "2025-12-13 13:31:09,859", "levelname": "INFO", "message": "Starting analysis", "file_count": 6}
+{"asctime": "2025-12-13 13:31:09,871", "levelname": "INFO", "message": "Parsed file successfully", "file": "TS26113_Maf_SessionHandling.yaml"}
+{"asctime": "2025-12-13 13:31:09,919", "levelname": "INFO", "message": "Parsed file successfully", "file": "TS28310_EnergyInformationNrm.yaml"}
+{"asctime": "2025-12-13 13:31:10,030", "levelname": "INFO", "message": "Parsed file successfully", "file": "TS29556_Neasdf_DNSContext.yaml"}
+{"asctime": "2025-12-13 13:31:10,150", "levelname": "INFO", "message": "Parsed file successfully", "file": "TS29557_Naf_ProSe.yaml"}
+{"asctime": "2025-12-13 13:31:10,222", "levelname": "INFO", "message": "Parsed file successfully", "file": "TS29558_Eecs_ACREvents.yaml"}
+{"asctime": "2025-12-13 13:31:10,275", "levelname": "INFO", "message": "Parsed file successfully", "file": "TS29558_Eecs_EESRegistration.yaml"}
+{"asctime": "2025-12-13 13:31:10,275", "levelname": "INFO", "message": "Metadata saved to metadata.json"}
+{"asctime": "2025-12-13 13:31:10,275", "levelname": "INFO", "message": "Summary report appended to README.txt"}
